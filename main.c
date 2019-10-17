@@ -4,7 +4,7 @@ int main()
 {
     while(1)
     {
-	printf("I'm alive!!!\n");
+	printf("I'm alive!!\n");
 	sleep(1);
     }
 
